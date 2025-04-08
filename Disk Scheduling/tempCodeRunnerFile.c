@@ -1,0 +1,1 @@
+printf("Total seek : %d",result);
